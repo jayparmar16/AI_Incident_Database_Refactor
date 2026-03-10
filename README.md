@@ -4,6 +4,9 @@
 > Built for researchers, policy teams, and analysts who want insights.
 
 ---
+### AI Incidents URL: http://incidentdatabase.ai/
+### AI Incidents Database Download: https://incidentdatabase.ai/research/snapshots
+---
 
 ## 📋 Table of Contents
 - [✨ Quick Start](#-quick-start)
